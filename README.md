@@ -6,9 +6,9 @@
 # Description
 Feature transformation refers to the process of altering the original features or variables in a dataset to create new representations that might be more suitable for analysis or modeling. This process can involve various techniques, such as scaling, normalization, encoding categorical variables, creating new features through mathematical operations, and more. 
 
-**The Process of Feature Transformation**
-1.**Normalization**n/
-2.**Standardization**n/
-3.**Logarithm(log) Transformation**n/
-4.**Robust Scaler**n/
+#**The Process of Feature Transformation**<br/>
+1.**Normalization**<br/>
+2.**Standardization**<br/>
+3.**Logarithm(log) Transformation**<br/>
+4.**Robust Scaler**<br/>
 5.**Max Absolute Scaler**
